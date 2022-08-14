@@ -1,0 +1,20 @@
+{
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.tabWidth": 2,
+  "scssFormatter.singleQuote": true,
+  "editor.formatOnSave": true,
+  "less.lint.important": "warning",
+  "eslint.format.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "vue3snippets.tabWidth": 2,
+  "editor.tabSize": 2,
+  "javascript.preferences.quoteStyle": "single",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.preferences.quoteStyle": "single",
+  "html.format.indentInnerHtml": true,
+  "html.format.enable": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
